@@ -57,7 +57,8 @@
       "image": "file:///android_asset/image/gambar_2.jpg",
       "description": "null",
       "link": "file:///android_asset/guide/resep_2.html"
-	{  
+    },  
+    {
       "id": 3,
       "category": "MENU 2",
       "title": "Yang harus disiapkan untuk monetize iklan Admob",
@@ -73,7 +74,7 @@
       "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
       "link": "file:///android_asset/guide/resep_4.html"
     },
-	{
+    {
       "id": 5,
       "category": "MENU 1",
       "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
@@ -88,7 +89,8 @@
       "image": "file:///android_asset/image/gambar_6.jpg",
       "description": "null",
       "link": "file:///android_asset/guide/resep_6.html"
-	{  
+    },  
+    {
       "id": 7,
       "category": "MENU 2",
       "title": "Yang harus disiapkan untuk monetize iklan Admob",
@@ -104,7 +106,7 @@
       "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
       "link": "file:///android_asset/guide/resep_8.html"
     },
-	{
+    {
       "id": 9,
       "category": "MENU 1",
       "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
@@ -119,7 +121,8 @@
       "image": "file:///android_asset/image/gambar_10.jpg",
       "description": "null",
       "link": "file:///android_asset/guide/resep_10.html"
-	{  
+    },  
+    {
       "id": 11,
       "category": "MENU 2",
       "title": "Yang harus disiapkan untuk monetize iklan Admob",
@@ -135,7 +138,7 @@
       "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
       "link": "file:///android_asset/guide/resep_12.html"
     },
-	{
+    {
       "id": 13,
       "category": "MENU 1",
       "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
@@ -150,7 +153,8 @@
       "image": "file:///android_asset/image/gambar_14.jpg",
       "description": "null",
       "link": "file:///android_asset/guide/resep_14.html"
-	{  
+    },  
+    {
       "id": 15,
       "category": "MENU 2",
       "title": "Yang harus disiapkan untuk monetize iklan Admob",
@@ -166,7 +170,7 @@
       "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
       "link": "file:///android_asset/guide/resep_16.html"
     },
-	{
+    {
       "id": 17,
       "category": "MENU 1",
       "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
@@ -181,7 +185,8 @@
       "image": "file:///android_asset/image/gambar_18.jpg",
       "description": "null",
       "link": "file:///android_asset/guide/resep_18.html"
-	{  
+    },  
+    {
       "id": 19,
       "category": "MENU 2",
       "title": "Yang harus disiapkan untuk monetize iklan Admob",
@@ -197,7 +202,7 @@
       "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
       "link": "file:///android_asset/guide/resep_20.html"
     },
-	{
+    {
       "id": 21,
       "category": "MENU 1",
       "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
@@ -205,7 +210,7 @@
       "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
       "link": "file:///android_asset/guide/resep_21.html"
     },
-	{
+    {
       "id": 22,
       "category": "MENU 1",
       "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
@@ -220,7 +225,8 @@
       "image": "file:///android_asset/image/gambar_23.jpg",
       "description": "null",
       "link": "file:///android_asset/guide/resep_23.html"
-	{  
+    },  
+    {
       "id": 24,
       "category": "MENU 2",
       "title": "Yang harus disiapkan untuk monetize iklan Admob",
