@@ -60,7 +60,7 @@
     },  
     {
       "id": 3,
-      "category": "MENU 2",
+      "category": "MENU 3",
       "title": "Sop Buah DEBM with Yakult",
       "image": "file:///android_asset/image/gambar_3.jpg",
       "description": "Sop Buah DEBM with Yakult",
@@ -68,7 +68,7 @@
     },
     {
       "id": 4,
-      "category": "MENU 1",
+      "category": "MENU 4",
       "title": "Alpukat Sura DEBM",
       "image": "file:///android_asset/image/gambar_4.jpg",
       "description": "Alpukat Sura DEBM",
@@ -92,7 +92,7 @@
     },  
     {
       "id": 7,
-      "category": "MENU 2",
+      "category": "MENU 3",
       "title": "Ayam Ungkep Simple DEBM",
       "image": "file:///android_asset/image/gambar_7.jpg",
       "description": "Ayam Ungkep Simple DEBM",
@@ -100,7 +100,7 @@
     },
     {
       "id": 8,
-      "category": "MENU 1",
+      "category": "MENU 4",
       "title": "Capcay Telur Puyuh DEBM",
       "image": "file:///android_asset/image/gambar_8.jpg",
       "description": "Capcay Telur Puyuh DEBM",
@@ -124,7 +124,7 @@
     },  
     {
       "id": 11,
-      "category": "MENU 2",
+      "category": "MENU 3",
       "title": "Steam Telor DEBM",
       "image": "file:///android_asset/image/gambar_11.jpg",
       "description": "Steam Telor DEBM",
@@ -132,7 +132,7 @@
     },
     {
       "id": 12,
-      "category": "MENU 1",
+      "category": "MENU 4",
       "title": "Telur goreng & keju panggang DEBM",
       "image": "file:///android_asset/image/gambar_12.jpg",
       "description": "Telur goreng & keju panggang DEBM",
@@ -156,7 +156,7 @@
     },  
     {
       "id": 15,
-      "category": "MENU 2",
+      "category": "MENU 3",
       "title": "Lumpur pandan keju DEBM",
       "image": "file:///android_asset/image/gambar_15.jpg",
       "description": "Lumpur pandan keju DEBM",
@@ -164,7 +164,7 @@
     },
     {
       "id": 16,
-      "category": "MENU 1",
+      "category": "MENU 4",
       "title": "Bolu Gulung DEBM",
       "image": "file:///android_asset/image/gambar_16.jpg",
       "description": "Bolu Gulung DEBM",
@@ -188,7 +188,7 @@
     },  
     {
       "id": 19,
-      "category": "MENU 2",
+      "category": "MENU 3",
       "title": "DEBM Shirataki Sushi Roll",
       "image": "file:///android_asset/image/gambar_19.jpg",
       "description": "DEBM Shirataki Sushi Roll",
@@ -204,7 +204,7 @@
     },
     {
       "id": 21,
-      "category": "MENU 1",
+      "category": "MENU 4",
       "title": "Siomay kubis isi Ayam - DEBM",
       "image": "file:///android_asset/image/gambar_21.jpg",
       "description": "Siomay kubis isi Ayam - DEBM",
@@ -212,7 +212,7 @@
     },
     {
       "id": 22,
-      "category": "MENU 1",
+      "category": "MENU 3",
       "title": "Dimsum/siomay ayam ala Debm",
       "image": "file:///android_asset/image/gambar_22.jpg",
       "description": "Dimsum/siomay ayam ala Debm",
@@ -228,7 +228,7 @@
     },  
     {
       "id": 24,
-      "category": "MENU 2",
+      "category": "MENU 3",
       "title": "Kulit Ayam Lada Hitam DEBM",
       "image": "file:///android_asset/image/gambar_24.jpg",
       "description": "Kulit Ayam Lada Hitam DEBM",
@@ -236,7 +236,7 @@
     },
     {
       "id": 25,
-      "category": "MENU 1",
+      "category": "MENU 4",
       "title": "Kukis Coklat Koin DEBM",
       "image": "file:///android_asset/image/gambar_25.jpg",
       "description": "Kukis Coklat Koin DEBM",
