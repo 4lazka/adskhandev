@@ -45,201 +45,201 @@
     {
       "id": 1,
       "category": "MENU 1",
-      "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
+      "title": "Kopi Santan DEBM",
       "image": "file:///android_asset/image/gambar_1.jpg",
-      "description": "Jika anda menggunakan link website atau link HTML dari folder asset maka wajib mengisi bagian description",
+      "description": "Kopi Santan DEBM",
       "link": "file:///android_asset/guide/resep_1.html"
     },
     {
       "id": 2,
       "category": "MENU 2",
-      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
+      "title": "Bakso DEBM",
       "image": "file:///android_asset/image/gambar_2.jpg",
-      "description": "null",
+      "description": "Bakso DEBM",
       "link": "file:///android_asset/guide/resep_2.html"
     },  
     {
       "id": 3,
       "category": "MENU 2",
-      "title": "Yang harus disiapkan untuk monetize iklan Admob",
+      "title": "Sop Buah DEBM with Yakult",
       "image": "file:///android_asset/image/gambar_3.jpg",
-      "description": "Sampai saai ini Admob masih menjadi pilihan utama dalam me monetize aplikasi mobile. Tapi dikarenakan kendala limits akun Admob akhirnya banyak pengembang aplikasi mulai mencari pengganti Admob seperti Facebook Audience Network, Mopub, Startapp, dll",
+      "description": "Sop Buah DEBM with Yakult",
       "link": "file:///android_asset/guide/resep_3.html"
     },
     {
       "id": 4,
       "category": "MENU 1",
-      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "title": "Alpukat Sura DEBM",
       "image": "file:///android_asset/image/gambar_4.jpg",
-      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "description": "Alpukat Sura DEBM",
       "link": "file:///android_asset/guide/resep_4.html"
     },
     {
       "id": 5,
       "category": "MENU 1",
-      "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
+      "title": "Bolu DEBM",
       "image": "file:///android_asset/image/gambar_5.jpg",
-      "description": "Jika anda menggunakan link website atau link HTML dari folder asset maka wajib mengisi bagian description",
+      "description": "Bolu DEBM",
       "link": "file:///android_asset/guide/resep_5.html"
     },
     {
       "id": 6,
       "category": "MENU 2",
-      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
+      "title": "Martabak telur DEBM",
       "image": "file:///android_asset/image/gambar_6.jpg",
-      "description": "null",
+      "description": "Martabak telur DEBM",
       "link": "file:///android_asset/guide/resep_6.html"
     },  
     {
       "id": 7,
       "category": "MENU 2",
-      "title": "Yang harus disiapkan untuk monetize iklan Admob",
+      "title": "Ayam Ungkep Simple DEBM",
       "image": "file:///android_asset/image/gambar_7.jpg",
-      "description": "Sampai saai ini Admob masih menjadi pilihan utama dalam me monetize aplikasi mobile. Tapi dikarenakan kendala limits akun Admob akhirnya banyak pengembang aplikasi mulai mencari pengganti Admob seperti Facebook Audience Network, Mopub, Startapp, dll",
+      "description": "Ayam Ungkep Simple DEBM",
       "link": "file:///android_asset/guide/resep_7.html"
     },
     {
       "id": 8,
       "category": "MENU 1",
-      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "title": "Capcay Telur Puyuh DEBM",
       "image": "file:///android_asset/image/gambar_8.jpg",
-      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "description": "Capcay Telur Puyuh DEBM",
       "link": "file:///android_asset/guide/resep_8.html"
     },
     {
       "id": 9,
       "category": "MENU 1",
-      "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
+      "title": "Sosis Solo ala DEBM",
       "image": "file:///android_asset/image/gambar_9.jpg",
-      "description": "Jika anda menggunakan link website atau link HTML dari folder asset maka wajib mengisi bagian description",
+      "description": "Sosis Solo ala DEBM",
       "link": "file:///android_asset/guide/resep_9.html"
     },
     {
       "id": 10,
       "category": "MENU 2",
-      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
+      "title": "Tom yum Ayam DEBM",
       "image": "file:///android_asset/image/gambar_10.jpg",
-      "description": "null",
+      "description": "Tom yum Ayam DEBM",
       "link": "file:///android_asset/guide/resep_10.html"
     },  
     {
       "id": 11,
       "category": "MENU 2",
-      "title": "Yang harus disiapkan untuk monetize iklan Admob",
+      "title": "Steam Telor DEBM",
       "image": "file:///android_asset/image/gambar_11.jpg",
-      "description": "Sampai saai ini Admob masih menjadi pilihan utama dalam me monetize aplikasi mobile. Tapi dikarenakan kendala limits akun Admob akhirnya banyak pengembang aplikasi mulai mencari pengganti Admob seperti Facebook Audience Network, Mopub, Startapp, dll",
+      "description": "Steam Telor DEBM",
       "link": "file:///android_asset/guide/resep_11.html"
     },
     {
       "id": 12,
       "category": "MENU 1",
-      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "title": "Telur goreng & keju panggang DEBM",
       "image": "file:///android_asset/image/gambar_12.jpg",
-      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "description": "Telur goreng & keju panggang DEBM",
       "link": "file:///android_asset/guide/resep_12.html"
     },
     {
       "id": 13,
       "category": "MENU 1",
-      "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
+      "title": "Kolak pumpkin DEBM",
       "image": "file:///android_asset/image/gambar_13.jpg",
-      "description": "Jika anda menggunakan link website atau link HTML dari folder asset maka wajib mengisi bagian description",
+      "description": "Kolak pumpkin DEBM",
       "link": "file:///android_asset/guide/resep_13.html"
     },
     {
       "id": 14,
       "category": "MENU 2",
-      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
-      "image": "file:///android_asset/image/gambar_14.jpg",
-      "description": "null",
+      "title": "Kue Putri Salju - DEBM",
+      "image": "file:///android_asset/image/gambar_14.png",
+      "description": "Kue Putri Salju - DEBM",
       "link": "file:///android_asset/guide/resep_14.html"
     },  
     {
       "id": 15,
       "category": "MENU 2",
-      "title": "Yang harus disiapkan untuk monetize iklan Admob",
+      "title": "Lumpur pandan keju DEBM",
       "image": "file:///android_asset/image/gambar_15.jpg",
-      "description": "Sampai saai ini Admob masih menjadi pilihan utama dalam me monetize aplikasi mobile. Tapi dikarenakan kendala limits akun Admob akhirnya banyak pengembang aplikasi mulai mencari pengganti Admob seperti Facebook Audience Network, Mopub, Startapp, dll",
+      "description": "Lumpur pandan keju DEBM",
       "link": "file:///android_asset/guide/resep_15.html"
     },
     {
       "id": 16,
       "category": "MENU 1",
-      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "title": "Bolu Gulung DEBM",
       "image": "file:///android_asset/image/gambar_16.jpg",
-      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "description": "Bolu Gulung DEBM",
       "link": "file:///android_asset/guide/resep_16.html"
     },
     {
       "id": 17,
       "category": "MENU 1",
-      "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
+      "title": "Stik Keju DEBM",
       "image": "file:///android_asset/image/gambar_17.jpg",
-      "description": "Jika anda menggunakan link website atau link HTML dari folder asset maka wajib mengisi bagian description",
+      "description": "Stik Keju DEBM",
       "link": "file:///android_asset/guide/resep_17.html"
     },
     {
       "id": 18,
       "category": "MENU 2",
-      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
+      "title": "Bola bola coklat keju - DEBM",
       "image": "file:///android_asset/image/gambar_18.jpg",
-      "description": "null",
+      "description": "Bola bola coklat keju - DEBM",
       "link": "file:///android_asset/guide/resep_18.html"
     },  
     {
       "id": 19,
       "category": "MENU 2",
-      "title": "Yang harus disiapkan untuk monetize iklan Admob",
+      "title": "DEBM Shirataki Sushi Roll",
       "image": "file:///android_asset/image/gambar_19.jpg",
-      "description": "Sampai saai ini Admob masih menjadi pilihan utama dalam me monetize aplikasi mobile. Tapi dikarenakan kendala limits akun Admob akhirnya banyak pengembang aplikasi mulai mencari pengganti Admob seperti Facebook Audience Network, Mopub, Startapp, dll",
+      "description": "DEBM Shirataki Sushi Roll",
       "link": "file:///android_asset/guide/resep_19.html"
     },
     {
       "id": 20,
       "category": "MENU 1",
-      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "title": "Sop Ayam Kampung DEBM",
       "image": "file:///android_asset/image/gambar_20.jpg",
-      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "description": "Sop Ayam Kampung DEBM",
       "link": "file:///android_asset/guide/resep_20.html"
     },
     {
       "id": 21,
       "category": "MENU 1",
-      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "title": "Siomay kubis isi Ayam - DEBM",
       "image": "file:///android_asset/image/gambar_21.jpg",
-      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "description": "Siomay kubis isi Ayam - DEBM",
       "link": "file:///android_asset/guide/resep_21.html"
     },
     {
       "id": 22,
       "category": "MENU 1",
-      "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
+      "title": "Dimsum/siomay ayam ala Debm",
       "image": "file:///android_asset/image/gambar_22.jpg",
-      "description": "Jika anda menggunakan link website atau link HTML dari folder asset maka wajib mengisi bagian description",
+      "description": "Dimsum/siomay ayam ala Debm",
       "link": "file:///android_asset/guide/resep_22.html"
     },
     {
       "id": 23,
       "category": "MENU 2",
-      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
+      "title": "Nasi Goreng Udang DEBM",
       "image": "file:///android_asset/image/gambar_23.jpg",
-      "description": "null",
+      "description": "Nasi Goreng Udang DEBM",
       "link": "file:///android_asset/guide/resep_23.html"
     },  
     {
       "id": 24,
       "category": "MENU 2",
-      "title": "Yang harus disiapkan untuk monetize iklan Admob",
+      "title": "Kulit Ayam Lada Hitam DEBM",
       "image": "file:///android_asset/image/gambar_24.jpg",
-      "description": "Sampai saai ini Admob masih menjadi pilihan utama dalam me monetize aplikasi mobile. Tapi dikarenakan kendala limits akun Admob akhirnya banyak pengembang aplikasi mulai mencari pengganti Admob seperti Facebook Audience Network, Mopub, Startapp, dll",
+      "description": "Kulit Ayam Lada Hitam DEBM",
       "link": "file:///android_asset/guide/resep_24.html"
     },
     {
       "id": 25,
       "category": "MENU 1",
-      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "title": "Kukis Coklat Koin DEBM",
       "image": "file:///android_asset/image/gambar_25.jpg",
-      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "description": "Kukis Coklat Koin DEBM",
       "link": "file:///android_asset/guide/resep_25.html"
     }
   ]
