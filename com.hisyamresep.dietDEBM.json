@@ -1,7 +1,7 @@
 {
  "Ads": [
     {
-      "select_ads": "APPLOVIN",
+      "select_ads": "UNITY",
       "status_app": "0",
       "link_redirect": "https://",
       "admob_interid": "ca-app-pub-4687145594328577/3003546365",
@@ -11,9 +11,9 @@
       "startappid": "201669628",
       "fan_inter": "284909219373101_284910039373019",
       "fan_banner": "284909219373101_516412076222813",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":"",
+      "unityID":"4210067",
+      "unity_inter":"video",
+      "unity_banner":"Banner",
       "interval": 3
     
     }
